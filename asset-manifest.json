@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/hooks-front6/static/js/main.ab535017.chunk.js",
+    "main.js.map": "/hooks-front6/static/js/main.ab535017.chunk.js.map",
+    "runtime-main.js": "/hooks-front6/static/js/runtime-main.70aeb3c0.js",
+    "runtime-main.js.map": "/hooks-front6/static/js/runtime-main.70aeb3c0.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/hooks-front6/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a59affd1.chunk.js": "/hooks-front6/static/js/2.a59affd1.chunk.js",
+    "static/js/2.a59affd1.chunk.js.map": "/hooks-front6/static/js/2.a59affd1.chunk.js.map",
+    "index.html": "/hooks-front6/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/hooks-front6/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.a59affd1.chunk.js.LICENSE.txt": "/hooks-front6/static/js/2.a59affd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70aeb3c0.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.a59affd1.chunk.js",
+    "static/js/main.ab535017.chunk.js"
+  ]
+}
